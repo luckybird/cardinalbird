@@ -1,0 +1,52 @@
+{
+	"projects": [
+		{ 
+			"slug": "title-of-project",
+			"title": "Title of Project",
+			"blurb": "Blurb of Project",
+			"description": "Title of Project",
+			"url": "Link to Project",
+			"images": {
+				"thumbnail": [
+					{"file": "blablabla.png"}
+				],
+				"detail": [ 
+					{"title": "Title of Image"},
+					{"file": "Title of Image"}
+				]
+			}
+		},
+		{ 
+			"slug": "title-of-project",
+			"title": "Title of Project",
+			"blurb": "Blurb of Project",
+			"description": "Title of Project",
+			"url": "Link to Project",
+			"images": {
+				"thumbnail": [
+					{"file": "blablabla.png"}
+				],
+				"detail": [ 
+					{"title": "Title of Image"},
+					{"file": "Title of Image"}
+				]
+			}
+		},
+		{ 
+			"slug": "title-of-project",
+			"title": "Title of Project",
+			"blurb": "Blurb of Project",
+			"description": "Title of Project",
+			"url": "Link to Project",
+			"images": {
+				"thumbnail": [
+					{"file": "blablabla.png"}
+				],
+				"detail": [ 
+					{"title": "Title of Image"},
+					{"file": "Title of Image"}
+				]
+			}
+		}
+	]
+}
